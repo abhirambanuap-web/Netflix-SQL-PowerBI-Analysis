@@ -1,0 +1,12 @@
+Sure Abhiram! Since you were working on the Netflix Dashboard project, here is a simple professional summary you can use for your project, resume, or portfolio.
+
+Netflix Data Analysis Dashboard – Summary
+
+This project analyzes Netflix content using SQL and Tableau to gain insights into movies and TV shows available on the platform. The dataset includes information such as title, genre, release year, rating, country, and type of content.
+
+Using SQL, the data was cleaned and prepared for analysis. A Tableau dashboard was then created to visualize key insights such as the distribution of movies vs TV shows, content by genre, yearly trends, and ratings. Various charts including donut charts, treemaps, bar charts, and KPIs were used to present the data in an interactive and easy-to-understand format.
+
+The dashboard helps users quickly understand Netflix's content library, identify popular genres, and analyze how content has grown over time. This project demonstrates skills in data cleaning, SQL querying, data visualization, and dashboard design.
+
+Tools Used:
+SQL, PowerBi
